@@ -1,0 +1,3 @@
+rootProject.name='Submission5'
+include ':app'
+include ':myfavoriteuser'
